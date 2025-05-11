@@ -2,7 +2,7 @@
 ZeroUI is a custom Android ROM based on crDroid Android, offering a unique blend of features, improvements, and a refined user interface.
 
 ### Key Features
-- Built on top of [crDroid Android](https://github.com/crdroidandroid) for a stable and secure base
+- Built on top of [Zero UI Android](https://github.com/project-zeroui) for a stable and secure base
 - Additional features and UI enhancements for a personalized experience
 - Currently supporting Android 15
 
